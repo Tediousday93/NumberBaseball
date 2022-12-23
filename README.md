@@ -31,6 +31,7 @@
 
 ## 3. 팀원
 
+> [팀 회고](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/팀회고.md)
 
 | ⭐️ 레옹아범(fatherLeon) | ⭐️ Rowan |
 | :--------: | :--------: |
