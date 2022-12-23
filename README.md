@@ -324,6 +324,7 @@ func decideWinner(strike: Int, chance: Int) -> String? {
 ```
 
 ```swift
+//after
 func decideWinner(strike: Int, chance: Int) {
     if strike == 3 {
         print("사용자 승리...!")
