@@ -14,7 +14,7 @@
 7. [트러블 슈팅](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/README.md#7-트러블-슈팅)
    - 7-1. [잘못된 입력의 오류처리](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/README.md#1-잘못된-입력의-오류처리)
    - 7-2. [잘못된 입력을 받았을 때, loop하여 다시 입력 받기](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/README.md#2-잘못된-입력을-받았을-때-loop하여-다시-입력-받기)
-   - 7-3. [winner 결정](ttps://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/README.md#3-winner-결정)
+   - 7-3. [winner 결정](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/README.md#3-winner-결정)
 8. [참고 링크](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/README.md#8-참고-링크)
 9. [아쉬운 점](https://github.com/Kyeongjun2/ios-number-baseball/tree/STEP2#9-아쉬운-점)
 
