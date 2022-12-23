@@ -46,7 +46,7 @@
 - 22.12.22 (목): STEP2 PR feedback 적용 <refactoring & convention 정리>
 
 ## 5. 프로젝트 구조
-![순서도](https://raw.githubusercontent.com/Kyeongjun2/ios-number-baseball/STEP2/image/순서도.png)
+![순서도](https://github.com/Kyeongjun2/ios-number-baseball/blob/STEP2/image/순서도.jpeg)
 
 ## 6. 실행 화면(기능 설명)
 
