@@ -154,4 +154,3 @@ func decideWinner(strike: Int, chance: Int) {
         print("컴퓨터 승리...!")
     }
 }
-
