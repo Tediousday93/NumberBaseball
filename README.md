@@ -1,4 +1,4 @@
-# iOS 커리어 스타터 캠프
+# 숫자 야구 게임
 ## 목차
 1. [제목](https://github.com/Kyeongjun2/ios-number-baseball/tree/STEP2#1-%EC%A0%9C%EB%AA%A9)
 2. [소개](https://github.com/Kyeongjun2/ios-number-baseball/tree/STEP2#2-%EC%86%8C%EA%B0%9C)
